@@ -1,2 +1,2 @@
 # tugas_9_js
-Tugas 9 JS
+Tugas 9 JS - Pengenalan
